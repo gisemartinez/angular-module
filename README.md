@@ -1,6 +1,3 @@
-#AngujarJs Archetype
-
-Repositorio para Arquetipo Web Apps de Avantrip en AngulasJs
 
 ## Requirements
 To run & work on this project you need to have the following installed:
@@ -20,4 +17,5 @@ To run & work on this project you need to have the following installed:
 ### Automation tools
 - [Gulp](http://gulpjs.com/)
 
+# angular-module
 # angular-module
