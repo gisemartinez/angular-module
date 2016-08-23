@@ -16,6 +16,3 @@ To run & work on this project you need to have the following installed:
 
 ### Automation tools
 - [Gulp](http://gulpjs.com/)
-
-# angular-module
-# angular-module
